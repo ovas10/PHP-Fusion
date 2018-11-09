@@ -198,6 +198,7 @@ class Locale {
             "Taiwan"          => "台湾",
             "The Netherlands" => "Nederland",
             "Ukraine"         => "Україна",
+            "Qazaqstan"      => "Qazaqstan",
         ];
 
         if (!empty($translated_countries[$country])) {
@@ -319,7 +320,7 @@ class Locale {
             'ji' => 'Yiddish',
             'jw' => 'Javanese',
             'ka' => 'Georgian',
-            'kk' => 'Kazakh',
+            'kk' => 'Qazaq',
             'kl' => 'Greenlandic',
             'km' => 'Cambodian',
             'kn' => 'Kannada',
