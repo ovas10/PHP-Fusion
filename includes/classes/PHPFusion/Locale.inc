@@ -191,7 +191,7 @@ class Locale {
             "Italy"           => "Italia",
             "Norway"          => "Norge",
             "Poland"          => "Polska",
-            "Qazaqstan"      => "Qazaqstan",
+            "Qazaqstan"       => "Qazaqstan",
             "Romania"         => "Rom&#226;nia",
             "Russia"          => "Россия",
             "Slovakia"        => "Slovensko",
